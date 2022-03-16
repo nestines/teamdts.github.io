@@ -145,8 +145,24 @@ span {
 .box.shadow1 h3 {
   font-family: Verdana;
   font-size: 15px;
-  padding-left: 55px;
+  padding-left: 30px;
+  padding-top: 20px;
 }
-.box.shadow1 h4 {
-  padding-left: 9px;
+.box.shadow2 h3 {
+  font-family: Verdana;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.box.shadow3 h3 {
+  font-family: Verdana;
+  font-size: 15px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.box.shadow4 h3 {
+  font-family: Verdana;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-top: 20px;
 }
